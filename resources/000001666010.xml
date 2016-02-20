@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?><collection xmlns="http://www.loc.gov/MARC21/slim">
+<record><leader>00000ngm c2200205 c 4500</leader>
+<controlfield tag="001">000001666010</controlfield>
+<controlfield tag="005">20160215151725</controlfield>
+<controlfield tag="007">vd cgaizq</controlfield>
+<controlfield tag="008">160215s2015    ulk90            avlkor  </controlfield>
+<datafield tag="040" ind1=" " ind2=" ">
+<subfield code="a">241050</subfield>
+<subfield code="c">241050</subfield>
+<subfield code="d">241050</subfield>
+</datafield>
+<datafield tag="041" ind1="0" ind2=" ">
+<subfield code="a">kor</subfield>
+<subfield code="b">kor</subfield>
+</datafield>
+<datafield tag="082" ind1="0" ind2="4">
+<subfield code="a">791.437</subfield>
+<subfield code="2">22</subfield>
+</datafield>
+<datafield tag="090" ind1=" " ind2=" ">
+<subfield code="a">791.437</subfield>
+<subfield code="b">M393f</subfield>
+</datafield>
+<datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Marzuk, Mike</subfield>
+</datafield>
+<datafield tag="245" ind1="1" ind2="0">
+<subfield code="a">해적왕의 황금나침반</subfield>
+<subfield code="h">[비디오 녹화자료] / </subfield>
+<subfield code="d">Mike Marzuk 감독.</subfield>
+</datafield>
+<datafield tag="246" ind1="1" ind2="9">
+<subfield code="a">Fünf Freunde 3</subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="a">서울 :</subfield>
+<subfield code="b">더컨텐츠온미디어, </subfield>
+<subfield code="c">2015.</subfield>
+</datafield>
+<datafield tag="300" ind1=" " ind2=" ">
+<subfield code="a">비디오디스크 1매(90분) : </subfield>
+<subfield code="b">유성, 천연색 ; </subfield>
+<subfield code="c">12 cm.</subfield>
+</datafield>
+<datafield tag="306" ind1=" " ind2=" ">
+<subfield code="a">013000</subfield>
+</datafield>
+<datafield tag="508" ind1=" " ind2=" ">
+<subfield code="a">제작진: 각본, Peer Klehmet ; 원작, Enid Blyton ; 촬영, Philip Peschlow ; 음악, Wolfram de Marco ; 미술, Boontawee Taweepasas</subfield>
+</datafield>
+<datafield tag="511" ind1="1" ind2=" ">
+<subfield code="a">전진아(조지(한국어 목소리) 역) ;  이재범(줄리안(한국어 목소리) 역) ; 탁원정(딕(한국어 목소리) 역) ; 김경희(앤(한국어 목소리) 역) ; Valeria Eisenbart(조지 역) ; Quirin Oettl(줄리안 역) ; Justus Schlingensiepen(딕 역) ; Neele-Marie Nickel(앤 역)</subfield>
+</datafield>
+<datafield tag="521" ind1=" " ind2=" ">
+<subfield code="a">전체 관람가</subfield>
+</datafield>
+<datafield tag="538" ind1=" " ind2=" ">
+<subfield code="a">시스템조건: DVD전용 플레이어 ; 오디오, Dolby Digital 5.1 Surround ; 화면, 1.85:1 Anamorphic Widescreen ; 지역코드, All NTSC ; 디스크, Dual Layer</subfield>
+</datafield>
+<datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">언어: 한국어 ; 자막: 한국어, 한국어</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">전진아</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">이재범</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">탁원정</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">김경희</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Eisenbart, Valeria</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Oettl, Quirin</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Schlingensiepen, Justus</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Nickel, Neele-Marie</subfield>
+</datafield>
+<datafield tag="900" ind1="1" ind2="1">
+<subfield code="a">마주크, 마이크</subfield>
+</datafield>
+<datafield tag="900" ind1="1" ind2="1">
+<subfield code="a">아이젠바트, 발레리아</subfield>
+</datafield>
+<datafield tag="900" ind1="1" ind2="1">
+<subfield code="a">에틀, 퀴린</subfield>
+</datafield>
+<datafield tag="900" ind1="1" ind2="1">
+<subfield code="a">쉴린겐지펜, 유스투스</subfield>
+</datafield>
+<datafield tag="900" ind1="1" ind2="1">
+<subfield code="a">닉켈, 닐르-마리</subfield>
+</datafield>
+<datafield tag="940" ind1=" " ind2=" ">
+<subfield code="a">Funf Freunde 3</subfield>
+</datafield>
+<datafield tag="950" ind1="0" ind2=" ">
+<subfield code="b">\25,300</subfield>
+</datafield>
+<datafield tag="999" ind1=" " ind2=" ">
+<subfield code="a">khj-E</subfield>
+</datafield>
+</record>
+</collection>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><modsCollection xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<mods version="3.5">
+<titleInfo>
+<title>해적왕의 황금나침반</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Fünf Freunde 3</title>
+</titleInfo>
+<name type="personal" usage="primary">
+<namePart>Marzuk, Mike</namePart>
+</name>
+<name type="personal">
+<namePart>전진아</namePart>
+</name>
+<name type="personal">
+<namePart>이재범</namePart>
+</name>
+<name type="personal">
+<namePart>탁원정</namePart>
+</name>
+<name type="personal">
+<namePart>김경희</namePart>
+</name>
+<name type="personal">
+<namePart>Eisenbart, Valeria</namePart>
+</name>
+<name type="personal">
+<namePart>Oettl, Quirin</namePart>
+</name>
+<name type="personal">
+<namePart>Schlingensiepen, Justus</namePart>
+</name>
+<name type="personal">
+<namePart>Nickel, Neele-Marie</namePart>
+</name>
+<typeOfResource>moving image</typeOfResource>
+<genre authority="marcgt">videorecording</genre>
+<originInfo>
+<place>
+<placeTerm type="code" authority="marccountry">ulk</placeTerm>
+</place>
+<place>
+<placeTerm type="text">서울</placeTerm>
+</place>
+<publisher>더컨텐츠온미디어</publisher>
+<dateIssued>2015</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">kor</languageTerm>
+</language>
+<physicalDescription>
+<form authority="gmd">비디오 녹화자료</form>
+<form authority="marccategory">videorecording</form>
+<form authority="marcsmd">videodisc</form>
+<extent>비디오디스크 1매(90분) :  유성, 천연색 ;  12 cm.</extent>
+</physicalDescription>
+<targetAudience>전체 관람가</targetAudience>
+<note type="creation/production credits">제작진: 각본, Peer Klehmet ; 원작, Enid Blyton ; 촬영, Philip Peschlow ; 음악, Wolfram de Marco ; 미술, Boontawee Taweepasas</note>
+<note type="performers">전진아(조지(한국어 목소리) 역) ;  이재범(줄리안(한국어 목소리) 역) ; 탁원정(딕(한국어 목소리) 역) ; 김경희(앤(한국어 목소리) 역) ; Valeria Eisenbart(조지 역) ; Quirin Oettl(줄리안 역) ; Justus Schlingensiepen(딕 역) ; Neele-Marie Nickel(앤 역)</note>
+<note type="system details">시스템조건: DVD전용 플레이어 ; 오디오, Dolby Digital 5.1 Surround ; 화면, 1.85:1 Anamorphic Widescreen ; 지역코드, All NTSC ; 디스크, Dual Layer</note>
+<note type="language">언어: 한국어 ; 자막: 한국어, 한국어</note>
+<classification authority="ddc" edition="22">791.437</classification>
+<recordInfo>
+<recordContentSource authority="marcorg">241050</recordContentSource>
+<recordCreationDate encoding="marc">160215</recordCreationDate>
+<recordChangeDate encoding="iso8601">20160215151725</recordChangeDate>
+<recordIdentifier>000001666010</recordIdentifier>
+<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.107 2016/1/7)</recordOrigin>
+</recordInfo>
+</mods>
+</modsCollection>
